@@ -12,7 +12,7 @@ The topic of the challenge is to develop an <mark>Energy Management System</mark
 ## Submission of proposal
 [SUBMISSION LINK](https://forms.gle/N4LjFR53m6wfZPHh6)
 
-The proposal(s) must be submitted by using the above link. The deadline for the proposal submission is <mark>17th of March, 2025</mark>.
+The proposal(s) must be submitted by using the above link. The deadline for the proposal submission is :red_circle:<mark>24th of March, 2025</mark>:red_circle: : <ins>this is a hard deadline, it will not be postponed further.</ins>
 
 For safety reasons, the submission can be made only by people with a Gmail account. In the form, it is possible to indicate the academic/industrial contact. If the possession of a Gmail account is an issue, please contact MVC 2025 organizers.
 
