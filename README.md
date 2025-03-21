@@ -27,7 +27,7 @@ Important rules that the submitted proposal must satisfy for being considered va
 4. Energy constraints of the BP and SM must always be guaranteed.
 
 ## What has to be uploaded for evaluation
-In order to evaluate each proposal, the teams must submit in the form (link available soon) a unique compressed file (.zip or .rar extension) containing only the following files:
+In order to evaluate each proposal, the teams must submit in the form [SUBMISSION LINK](https://forms.gle/N4LjFR53m6wfZPHh6) a unique compressed file (.zip or .rar extension) containing only the following files:
 - "proposedEMS.m" renamed as "nameTeam_numProp_EMS.m" where "numProp" must identify the proposal number of the team. If only one proposal is presented, please use "num1" (e.g., "teamWhite_prop1_EMS.m"). Please avoid spaces in the file name.
 - simulink subsystem of the proposed EMS. Rename the file as “nameTeam_numProp_Simulink.slx”. The same considerations made for the EMS Matlab script holds. Please note that **only** the Simulink block of the EMS is necessary, not the whole simulation. It is mandatory to adopt the same names of the signal in the Simulink buses.
 
